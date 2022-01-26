@@ -1,2 +1,2 @@
 def print_funny_story():
-    print("roi")
+    print("efrat")
